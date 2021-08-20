@@ -1,6 +1,6 @@
 # PolitiFact Scraper
 ## Overview
-* Scrape fact-checked news data from [PolitiFact](https://www.politifact.com/).
+* A simple scraper for fact-checked news data in [PolitiFact](https://www.politifact.com/).
 * This repo is for research study only.
 * Please refer to [`politifact-joe-biden-sample.csv`](./politifact-joe-biden-sample.csv) for a sample scraped dataset.
 
